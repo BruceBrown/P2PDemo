@@ -36,6 +36,7 @@
 		323FD60D246FAC9600CCA4B1 /* Messaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Messaging.swift; sourceTree = "<group>"; };
 		323FD6102470504500CCA4B1 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
 		323FD6122470505600CCA4B1 /* P2PDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = P2PDemo.entitlements; sourceTree = "<group>"; };
+		323FD6AC24706CDB00CCA4B1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		323FD5E4246F729B00CCA4B1 = {
 			isa = PBXGroup;
 			children = (
+				323FD6AC24706CDB00CCA4B1 /* README.md */,
 				323FD5EF246F729B00CCA4B1 /* P2PDemo */,
 				323FD5EE246F729B00CCA4B1 /* Products */,
 				323FD60F2470504500CCA4B1 /* Frameworks */,
