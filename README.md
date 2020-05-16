@@ -12,5 +12,7 @@ A couple of additional notes.
 This utilizes CocoaAsyncSocket, thank you.
 This has a very trivial stun client, its not very robust.
 This has a trivial Game Center helper, which is good enough
+I grabbed and slightly modified the interface collector from:
+https://github.com/svdo/swift-netutils/blob/master/NetUtils/Interface.swift
 
 
